@@ -13,5 +13,7 @@ fetch("/api/auth/session").then(r => r.json()).then(({ accessToken }) => {
 ```
 
 use this code in console(press F12 in the chatgpt page with your account login in)
+
 **available in 6/12/2023**
+
 STAR THIS REPOSITORY IF YOU SUCCESSED
