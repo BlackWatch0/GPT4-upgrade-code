@@ -10,7 +10,7 @@ fetch("/api/auth/session").then(r => r.json()).then(({ accessToken }) => {
         },
     }).then(r => r.json()).then(d => window.open(d.url));
 });
-
+```
 
 use this code in console(press F12 in the chatgpt page with your account login in)
 **available in 6/12/2023**
